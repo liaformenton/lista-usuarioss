@@ -1,0 +1,23 @@
+.botao {
+  background-color: #062b88ea;
+  color: rgb(224, 215, 215);
+  border: 0;
+  padding: 6px;
+  margin: 2px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.botao:hover {
+  background-color: #06005c;
+}
+
+.perigo {
+  background-color: #ff4444;
+}
+.sucesso {
+  background-color: #00c851;
+}
+.atencao {
+  background-color: #ffbb33;
+}
